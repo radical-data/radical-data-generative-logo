@@ -1,5 +1,5 @@
 var adverb = [
-"actively",
-"openly",
-"our"
-	];
+    "actively",
+    "openly",
+    "our"
+];
